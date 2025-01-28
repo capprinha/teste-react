@@ -14,6 +14,7 @@ function App() {
         <input type="password" id="senha" />
         <button type="submit">Confinar</button>
         <button type="submit">Limpar</button>
+        <p></p>
       </form>
     </div>
   );
